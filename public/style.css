@@ -1,0 +1,29 @@
+body{
+  padding:0px;
+  margin:0px;
+}
+header {
+  background: 
+    url(https://static.zerochan.net/Nahida.full.3717843.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.tieu_de {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  text-align: center;
+}
+h1 {
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 2rem;
+  white-space: nowrap;
+}
+h5{
+  font-size: 1rem;
+}
+
